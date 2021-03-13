@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jorge-lomas
+- 👀 I’m interested in SEO
+- 🌱 I’m currently learning GIT
